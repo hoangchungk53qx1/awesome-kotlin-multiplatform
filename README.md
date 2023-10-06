@@ -1,4 +1,4 @@
-# Kotlin Multiplatform Libraries
+# Kotlin Multiplatform Libraries and Project
 
 * [Network](#network)
 * [Repository](#repository)
