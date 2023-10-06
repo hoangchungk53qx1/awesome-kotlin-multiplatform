@@ -22,7 +22,8 @@ We are Rx-Mobile-Team (https://rx-mobile-team.github.io/profile/)
 * [Build & Development Tools](#build--development-tools)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Social](#social)
-
+* [ViewModel](#social)
+  
 ## Libraries
 
 ### Network
@@ -1537,6 +1538,8 @@ fully covered API and a lot of additional DSLs on top of base API.
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
+
+### ViewModel
 
 ## Contribute
 
