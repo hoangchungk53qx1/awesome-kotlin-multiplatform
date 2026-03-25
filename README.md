@@ -463,6 +463,12 @@ We are Rx-Mobile-Team (https://rx-mobile-team.github.io/profile/)
 ![badge][badge-ios]
 ![badge][badge-mac]
 
+* [ImagePickerKMP](https://github.com/ismoy/ImagePickerKMP) - Kotlin Multiplatform library for image picking and camera capture with a unified API and multiple output formats.  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-jvm]
+![badge][badge-js]
+
 ### Audio
 
 * [korau](https://github.com/korlibs/korau) - Pure Kotlin WAV, MP3 and OGG vorbis decoders  
