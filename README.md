@@ -1108,6 +1108,12 @@ We are Rx-Mobile-Team (https://rx-mobile-team.github.io/profile/)
 ![badge][badge-ios]
 ![badge][badge-jvm]
 
+#### Inspector
+
+* [StackAudit](https://github.com/r1b2ns/stack-audit) - Debug inspector for HTTP, WebSocket, storage, SQL, analytics events and feature flags, with an on-device viewer.  
+![badge][badge-android]
+![badge][badge-ios]
+
 ### Test
 
 * [assertk](https://github.com/willowtreeapps/assertk) - Assertions for kotlin inspired by assertj.  
